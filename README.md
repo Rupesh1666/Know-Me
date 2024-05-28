@@ -19,8 +19,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sard65205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sard65205" height="30" width="40" /></a>
-<a href="https://instagram.com/rupes.h1111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rupes.h1111" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rupeshsardar666/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fdf" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/technology with rappy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="technology with rappy" height="30" width="40" /></a>
+<a href="https://instagram.com/rupes.h1111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rupes.h1111" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
